@@ -1,0 +1,2 @@
+Expression ,Value
+average(getData(":pwr" ?result "tran")),63.36E-6

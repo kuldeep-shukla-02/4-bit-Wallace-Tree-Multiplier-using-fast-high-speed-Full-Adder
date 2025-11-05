@@ -1,0 +1,4 @@
+time (s),delay(?wf1 VT("/A"), ?value1 1.65, ?edge1 "rising", ?nth1 1, ?td1 0.0, ?tol1 nil, ?wf2 VT("/A"), ?value2 1.65, ?edge2 "falling", ?nth2 1, ?tol2 nil,  ?td2r0 nil , ?stop nil,  ?period1 1 ?period2 1 ?multiple t ?xName "trigger" ) (s)
+30.45E-9,-30.30E-9
+90.45E-9,-30.30E-9
+150.5E-9,-30.30E-9
